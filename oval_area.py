@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created by: Alex Kpajika
+# Created by: Alex Kapajika
 # Created on: Oct 10, 2023
 # This program asks the user for the area of an oval in cm. It then calculates.
 
